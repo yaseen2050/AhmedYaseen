@@ -2,6 +2,6 @@ package Hoor;
 
 public class dana {
     public static void main(String[] args) {
-        .out.println("Hi dana");
+       System.out.println("Hi dana");
     }
 }
